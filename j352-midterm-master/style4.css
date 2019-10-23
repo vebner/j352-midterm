@@ -24,3 +24,6 @@ container {
 .captions {
   text-align: center;
 }
+.caption {
+  margin: 0 auto 0;
+}
